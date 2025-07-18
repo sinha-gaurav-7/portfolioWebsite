@@ -70,7 +70,7 @@ const About = () => {
               I am Gaurav Rakesh Sinha, a full-stack developer based in Boston
               with a passion for modern web technologies. I specialize in React,
               Next.js, Node.js, and Flask, and I enjoy building scalable web
-              applications while managing cloud-based services. Lately, I've
+              applications while managing cloud-based services. Lately, I have
               been focusing on creating user-friendly interfaces and optimizing
               performance for seamless user experiences.
             </p>

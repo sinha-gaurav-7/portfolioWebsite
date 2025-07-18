@@ -29,7 +29,7 @@ const Index = () => {
         title: "Present",
         description: "Users can create animation-based presentations",
         image: "/present-1.png",
-        link: "https://present-self.vercel.app/landing",
+        link: "https://present-app-ten.vercel.app/",
       },
       {
         title: "Financial Budget Tracking Application",

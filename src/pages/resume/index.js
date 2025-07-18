@@ -6,13 +6,23 @@ import Education from "@/components/education-Card/index.js";
 const Resume = () => {
   const experiences = [
     {
-      jobTitle: "Software Engineer",
+      jobTitle: "Full Stack Developer",
+      companyName: "XNET Mobile Inc.",
+      duration: "January 2025 - May 2025",
+      jobDescription: [
+        "Revamped the company's website UI by architecting SSR with Next.js, implementing responsive design and optimizing asset loading.",
+        "Displayed global XNET nodes by integrating Mapbox location technology, boosting network visibility and user trust.",
+        "Integrated a serverless newsletter subscription using Sender.net API, reaching 10k+ subscribers and increasing engagement by 25%.",
+      ],
+    },
+    {
+      jobTitle: "Front End Software Engineer",
       companyName: "Tata Consultancy Services",
       duration: "August 2022 - July 2023",
       jobDescription: [
         "Successfully led the front-end development of multiple high-traffic applications, resulting in a 30% increase in user engagement.",
-        "Streamlined the development process by implementing automated testing frameworks, reducing bug rates by 25%.",
-        "Enhanced application security by integrating advanced authentication protocols, ensuring compliance with industry standards",
+        "Streamlined the development process by implementing automated testing frameworks, reducing bug rates by 13 %.",
+        "Enhanced application security by integrating advanced authentication protocols, ensuring compliance with industry standards.",
       ],
     },
     {
