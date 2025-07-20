@@ -50,6 +50,12 @@ const Index = () => {
         image: "/medical.jpg",
         link: "https://github.com/Cenagaurav77/Secure-API.git",
       },
+      {
+        title: "Yoga Studio",
+        description: "Discover Your Perfect Practice",
+        image: "/yoga_studio.jpg",
+        link: "http://www.towardsfitnesstraining.com/",
+      },
     ],
   };
 
