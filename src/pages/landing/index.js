@@ -56,6 +56,12 @@ const Index = () => {
         image: "/yoga_studio.jpg",
         link: "http://www.towardsfitnesstraining.com/",
       },
+      {
+        title: "Financial Data Filtering System",
+        description: "Filter and manage financial data efficiently",
+        image: "/data-filtering.jpg",
+        link: "https://financial-data-filtering-app-ruby.vercel.app/",
+      },
     ],
   };
 
@@ -78,6 +84,8 @@ const Index = () => {
     { src: "/redis.png", alt: "Image 16" },
     { src: "/sql.png", alt: "Image 17" },
     { src: "/typescript.png", alt: "Image 18" },
+    { src: "/yoga_studio.jpg", alt: "Image 19" },
+    { src: "/data-filtering.jpg", alt: "Image 20" },
   ];
 
   return (
