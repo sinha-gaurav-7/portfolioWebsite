@@ -54,7 +54,7 @@ const Index = () => {
         title: "Yoga Studio",
         description: "Discover Your Perfect Practice",
         image: "/yoga_studio.jpg",
-        link: "http://www.towardsfitnesstraining.com/",
+        link: "http://98.86.5.208/",
       },
       {
         title: "Financial Data Filtering System",
