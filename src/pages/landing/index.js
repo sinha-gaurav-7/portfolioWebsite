@@ -62,6 +62,19 @@ const Index = () => {
         image: "/data-filtering.jpg",
         link: "https://financial-data-filtering-app-ruby.vercel.app/",
       },
+      {
+        title: "Cryptocurrency Trading Platform",
+        description:
+          "A full-stack web application that streams real-time cryptocurrency prices",
+        image: "/crypto-streaming-app.jpg",
+        link: "https://github.com/sinha-gaurav-7/crypto-currency-trading-platform.git",
+      },
+      {
+        title: "Health Care Dashboard",
+        description: "A dashboard displaying the medical details of the doctor",
+        image: "/health-dashboard-image.jpg",
+        link: "https://github.com/sinha-gaurav-7/health-dashboard.git",
+      },
     ],
   };
 
