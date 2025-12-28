@@ -32,6 +32,18 @@ const Index = () => {
         link: "https://present-app-ten.vercel.app/",
       },
       {
+        title: "Parcel Scope",
+        description: "A dashboard displaying the parcels",
+        image: "/parcel-scope.jpg",
+        link: "https://parcel-scope.vercel.app/",
+      },
+      {
+        title: "AI-powered Zoo Tour Guide",
+        description: "A chat interface that interacts as a zoo tour guide",
+        image: "/zoo-tour-guide.jpg",
+        link: "https://zoo-tour-guide-737797492565.europe-west1.run.app/",
+      },
+      {
         title: "Financial Budget Tracking Application",
         description: "Expense sharing and tracking platform",
         image: "/fbta-1.png",
